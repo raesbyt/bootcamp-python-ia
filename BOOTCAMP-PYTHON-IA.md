@@ -12,7 +12,7 @@ O **Santander Bootcamp 2026** oferece uma formação intensiva de **Dados com Py
 
 ### 1- 🤖 **Potencializando Sua Jornada com Inteligência Artificial e Agentes**
 Entendimento dos fundamentos da IA moderna, Engenharia de Prompts, assistentes virtuais e o uso de agentes autônomos para acelerar o aprendizado e a produtividade:
-- [ ] Boas Vindas ao Bootcamp Santander Dados com Ptyhon e IA
+- [X] Boas Vindas ao Bootcamp Santander Dados com Ptyhon e IA
 - [ ] Fundamentos da IA Moderna: Machine Learning, LLMs, IA Generativa e Agentes
 - [ ] Potencializando Seus Estudos e Carreira com IA (Chatbots, Copilotos e Agentes)
 - [ ] Introdução à Engenharia de Prompts
