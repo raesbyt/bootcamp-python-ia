@@ -1,19 +1,53 @@
-# ⚡ Linha de Comando Pronta: A Contagem Regressiva Começou!
-Sabe aquela sensação boa de quando o terminal silencia, o ambiente virtual está ativado (.venv rodando lindo) e você sente que tudo está perfeitamente no lugar? É exatamente assim que eu estou agora. Tem aquele frio na barriga clássico, misturado com a ansiedade boa de quem não vê a hora de dar o run oficial nessa nova fase.
+# 📌 Sobre o Repositório
 
-Para mim, tecnologia nunca foi apenas sobre decorar sintaxes, memorizar frameworks ou acumular linhas de código. É sobre resolver problemas reais, transformar ideias abstratas em sistemas funcionais e ver a engenharia ganhando vida na tela. Quando a gente decide mergulhar de cabeça no universo de dados, automação e inteligência artificial, cada comando executado parece um tijolinho a mais na construção do futuro.
+Este repositório foi criado com o objetivo de registrar a minha jornada no desenvolvimento de software e tecnologia, oferecido pala **Santander Bootcamp 2026**, atravez da [DIO (Digital Innovation One)](https://www.dio.me/).<br> 
+Aqui, você encontrará a documentação detalhada da minha evolução prática e teórica, refletindo meu constante aprendizado e compromisso com a área.
 
-Mas quer saber a melhor parte de toda essa jornada? Não é só o que a gente constrói sozinho na IDE, mas a troca. É a comunidade, a galera com quem a gente debate arquiteturas, divide frustrações de um bug chato e celebra cada pequena vitória no caminho.
+Com a utilização do `Git` e `GitHub` de forma estratégica para documentar o histórico dos meus algoritmos com rastreabilidade e transparência. Mais do que um espaço de estudo, este repositório consolida as melhores práticas do mercado e serve como base para a construção do meu portfólio técnico.
 
-Por aqui, o cenário já está montado: abas organizadas, café fresco na xícara e a mente totalmente aberta para sugar cada gota de aprendizado que está por vir.
+> **⚠️ Nota de Isenção de Responsabilidade (Disclaimer)**  
+> Este é um repositório pessoal de estudos e anotações criado para acompanhar a jornada no **Santander Bootcamp 2026:**
+> - *Dados com Python e IA*. 
+>
+> Este espaço não é um canal oficial da DIO ou do Banco Santander.
 
-🛠️ O Combustível para a Jornada:
-* **Evolução Contínua:** Afiar ainda mais as garras em Python, engenharia de dados e arquitetura de sistemas.
+---
 
-* **Projetos com Propósito:** Sair da teoria para construir soluções reais, estruturadas e prontas para escalar.
+## 🚀 Conteúdos e Módulos
 
-* **Conexões Reais:** Trocar experiências com pessoas que compartilham dessa mesma paixão por inovação e desenvolvimento de software.
+- **Anotações e Resumos:** Conceitos teóricos e fundamentações explicadas na prática.
+- **Desafios de Código:** Exercícios de lógica e algoritmos resolvidos durante o bootcamp.
+- **Projetos Práticos:** Aplicações de cenário real construídas ao longo do Santander Bootcamp.
 
-Se você também está contando os minutos para essa engrenagem começar a girar, me chama: bora trocar ideia, debugar juntos e construir coisas incríveis! 🚀🐍☕
+## 🎯 Objetivos do Repositório
 
-Vamos com tudo! 💻🔥
+- **Centralização:** Ponto único de consulta para códigos, desafios e anotações.
+- **Rastreabilidade:** Documentar de forma contínua a evolução técnica e prática.
+- **Portfólio:** Construir uma vitrine sólida de projetos e soluções aplicadas.
+---
+
+## 💻 Tecnologias e Ferramentas
+
+- **Linguagem Principal:** Python
+- **Ambiente de Desenvolvimento:** VS Code
+- **Controle de Versão:** Git & GitHub
+
+## 📐 Metodologia e Boas Práticas
+
+A adotação do fluxo com **Git** e **GitHub** atua como pilar para a qualidade do código, garantindo:
+
+- **Histórico Semântico:** Padronização e clareza na evolução dos commits.
+- **Rastreabilidade e Versionamento:** Registro organizado das alterações e soluções implementadas.
+- **Padrões de Mercado:** Consolidação de fluxos de trabalho profissionais desde a base do projeto.
+
+---
+
+## 🤝 Como Contribuir ou Acompanhar
+Sinta-se à vontade para explorar os códigos, clonar o repositório ou utilizar este material como referência para seus estudos. Caso tenha sugestões ou dúvidas, abra uma issue ou entre em contato!
+
+### 📄 Licença
+
+Este projeto está sob a licença **MIT** (Open Source). Você pode utilizar, copiar, modificar e distribuir o conteúdo deste repositório livremente para fins de estudo e aprendizado. Consulte o arquivo `LICENSE` para mais detalhes.
+
+---
+### *Desenvolvido como parte da jornada de aprendizado no Santander Bootcamp 2026*.
